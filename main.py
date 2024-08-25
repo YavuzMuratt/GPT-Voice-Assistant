@@ -33,7 +33,7 @@ def transcribe_audio_to_text():
 
 def generate_response(input_text):
     # Set up OpenAI API credentials
-    openai.api_key = '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'
+    openai.api_key = 'your-key'
 
     # Set the parameters for the API call
     prompt = input_text
