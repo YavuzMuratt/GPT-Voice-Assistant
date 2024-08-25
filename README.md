@@ -23,7 +23,7 @@ This project is a Python program that transcribes audio input to text, generates
 - The response is spoken out loud using the default text-to-speech voice provided by the pyttsx3 library.
 
 # Configuration
-- To adjust the speech rate, modify the rate parameter in the speak_response() method in main.py.
+- To adjust the speech rate, modify the rate parameter in the speak_response() method in main.py. 
 
 - You can explore different models available in the OpenAI API by modifying the model parameter in the generate_response() method in main.py.
 
